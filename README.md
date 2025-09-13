@@ -1,12 +1,43 @@
-# React + Vite
+# Party Menu Selection App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, easy-to-use ReactJS web app to browse, filter, and select dishes for your party menu.
 
-Currently, two official plugins are available:
+**▶️ Live Demo:**  
+[Open the Party Menu Selection App](https://your-live-app-link.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Category Tabs:** Browse by Starter, Main Course, Dessert, Sides, or All.
+- **Veg Only Toggle:** Filter the menu to show only vegetarian dishes.
+- **Instant Search:** Find dishes by name or description as you type.
+- **Add/Remove Dishes:** Create your party menu by selecting items.
+- **Selected Items Badge:** See how many items are in your selection—always visible at the top.
+- **Ingredients Modal:** View dish ingredients and details with a simple click—no navigation away.
+- **Responsive, Modern Design:** Works seamlessly on desktop and mobile, always with a clean UI.
+
+---
+
+## How It Works
+
+- **Click tabs** to filter by category.
+- **Switch "Veg Only"** to instantly hide non-veg dishes.
+- **Type in search** to instantly filter dishes by keyword.
+- **Add or remove dishes** with a single click.
+- **Click "Ingredients"** to open a modal with dish details and ingredients.
+
+---
+
+## Tech & Concepts
+
+- **Functional ReactJS components** (with hooks and prop-driven design)
+- **Reusable, modular UI** (DishCard, DishList, IngredientModal)
+- **Best practices:** Conditional rendering, state management, .map() for UI lists
+- **Modern Flexbox & Grid CSS**
+
+---
+
+**Made for TheChefkart Frontend Assignment**
+
+MIT License
