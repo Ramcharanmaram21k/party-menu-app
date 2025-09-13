@@ -1,10 +1,16 @@
 # Party Menu Selection App
-
 A clean, easy-to-use ReactJS web app to browse, filter, and select dishes for your party menu.
 
 **▶️ Live Demo:**  
 [Open the Party Menu Selection App]
 (https://party-menu-app-rust.vercel.app/)
+
+<img width="1709" height="950" alt="image" src="https://github.com/user-attachments/assets/df9f7daa-5078-4fcc-bfb3-43ffbc5ff9c3" />
+
+
+
+
+
 
 ---
 
